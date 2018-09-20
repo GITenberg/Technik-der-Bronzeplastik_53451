@@ -1,0 +1,24 @@
+_repo: Technik-der-Bronzeplastik_53451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lüer, Hermann
+    alias: Luer, Hermann
+    gutenberg_agent_id: '47378'
+    url: http://www.gutenberg.org/2009/agents/47378
+description: ''
+gutenberg_issued: '2016-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53451'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sculpture'
+- !lcsh 'Bronze'
+- !lcc 'NB'
+- GITenberg
+title: Technik der Bronzeplastik
+url: http://www.gutenberg.org/ebooks/53451
